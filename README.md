@@ -1,4 +1,9 @@
 # Enabling Telnet on Netgear D1500
+
+<div align="center">
+<img src="D1500.png" alt="D1500 Image" width="40%">
+</div>
+
 The [`telnetEnable`](https://github.com/davejagoda/NetgearTelnetEnable) method doesn't work, although the port is open, the connection fails.
 
 >it's possible to enable it via the .cfg file but you'd have to find a way to decode it
